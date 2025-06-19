@@ -5356,7 +5356,7 @@ age,workclass,fnlwgt,education_num,martial_status,relationship,race,sex,capital_
 33,private,163392,9,married,male spouse,american indian or eskimo,male,0,0,48,united-states,>50k,highschoolgraduate,white collar,26-35
 54,private,138845,10,single,single,white,female,0,0,40,united-states,<=50k,samecollege,service,46-60
 19,local-gov,169853,9,single,child,white,male,0,0,40,united-states,<=50k,highschoolgraduate,blue collar,18-25
-18,voluntary,206359,6,single,child,white,male,0,0,40,united-states,<=50k,secondary,unknown,<18
+18,unemployed,206359,6,single,child,white,male,0,0,40,united-states,<=50k,secondary,unknown,<18
 60,private,224097,9,married,male spouse,white,male,0,0,40,united-states,<=50k,highschoolgraduate,blue collar,46-60
 28,self-employed,160786,9,single,child,white,male,0,0,40,united-states,<=50k,highschoolgraduate,blue collar,26-35
 43,self-employed,190044,9,married,male spouse,white,male,0,0,40,united-states,<=50k,highschoolgraduate,white collar,36-45
@@ -10836,7 +10836,7 @@ age,workclass,fnlwgt,education_num,martial_status,relationship,race,sex,capital_
 51,self-employed,159755,11,married,male spouse,white,male,0,0,38,united-states,>50k,associate,white collar,46-60
 27,private,37088,13,married,male spouse,white,male,0,0,30,united-states,<=50k,tertiary,white collar,26-35
 27,private,335421,13,single,single,white,female,0,0,20,united-states,<=50k,tertiary,white collar,26-35
-23,voluntary,188535,4,divorced or separated,single,white,male,0,0,35,united-states,<=50k,primary,unknown,18-25
+23,unemployed,188535,4,divorced or separated,single,white,male,0,0,35,united-states,<=50k,primary,unknown,18-25
 20,government,349365,9,single,single,white,female,0,0,40,united-states,<=50k,highschoolgraduate,service,18-25
 42,private,33002,9,married,male spouse,white,male,0,0,48,united-states,<=50k,highschoolgraduate,white collar,36-45
 32,private,330715,9,married,male spouse,white,male,99999,0,40,united-states,>50k,highschoolgraduate,blue collar,26-35
@@ -14759,7 +14759,7 @@ age,workclass,fnlwgt,education_num,martial_status,relationship,race,sex,capital_
 22,private,146540,7,single,single,white,male,0,0,50,united-states,<=50k,secondary,blue collar,18-25
 53,local-gov,132304,10,divorced or separated,single,white,female,0,0,40,united-states,<=50k,samecollege,white collar,46-60
 25,private,190916,9,single,single,white,male,0,0,40,united-states,<=50k,highschoolgraduate,white collar,18-25
-17,voluntary,237272,6,single,child,white,male,0,0,30,united-states,<=50k,secondary,unknown,<18
+17,unemployed,237272,6,single,child,white,male,0,0,30,united-states,<=50k,secondary,unknown,<18
 44,private,755858,9,married,male spouse,white,male,0,0,70,united-states,>50k,highschoolgraduate,blue collar,36-45
 52,private,127315,14,married,male spouse,white,male,0,0,40,united-states,>50k,tertiary,white collar,46-60
 42,government,304302,9,married,male spouse,american indian or eskimo,male,0,0,40,united-states,<=50k,highschoolgraduate,blue collar,36-45
@@ -20320,7 +20320,7 @@ age,workclass,fnlwgt,education_num,martial_status,relationship,race,sex,capital_
 27,private,178709,14,single,single,white,female,0,0,40,united-states,<=50k,tertiary,blue collar,26-35
 48,private,449354,9,married,male spouse,white,male,4386,0,45,united-states,>50k,highschoolgraduate,white collar,46-60
 24,private,187937,13,single,single,white,female,0,0,40,united-states,<=50k,tertiary,white collar,18-25
-18,voluntary,157131,7,single,child,white,female,0,0,10,united-states,<=50k,secondary,unknown,<18
+18,unemployed,157131,7,single,child,white,female,0,0,10,united-states,<=50k,secondary,unknown,<18
 53,local-gov,188772,9,widowed,single,white,female,0,0,30,united-states,<=50k,highschoolgraduate,service,46-60
 26,private,157617,9,married,male spouse,white,male,0,0,40,poland,<=50k,highschoolgraduate,blue collar,26-35
 60,private,96099,10,married,male spouse,white,male,0,0,40,united-states,>50k,samecollege,white collar,46-60
@@ -23208,7 +23208,7 @@ age,workclass,fnlwgt,education_num,martial_status,relationship,race,sex,capital_
 45,private,184581,9,married,male spouse,white,male,0,0,40,united-states,<=50k,highschoolgraduate,blue collar,36-45
 48,government,100067,10,widowed,single,black,female,0,0,40,united-states,<=50k,samecollege,service,46-60
 36,private,182863,13,married,male spouse,white,male,0,0,50,united-states,>50k,tertiary,white collar,36-45
-20,voluntary,462294,10,single,child,black,male,0,0,40,united-states,<=50k,samecollege,unknown,18-25
+20,unemployed,462294,10,single,child,black,male,0,0,40,united-states,<=50k,samecollege,unknown,18-25
 61,private,85434,9,married,male spouse,white,male,0,0,40,united-states,<=50k,highschoolgraduate,blue collar,61-75
 72,private,158092,13,divorced or separated,single,white,male,0,0,30,united-states,<=50k,tertiary,white collar,61-75
 19,private,104844,10,single,child,white,female,0,0,15,united-states,<=50k,samecollege,white collar,18-25
@@ -32257,7 +32257,7 @@ age,workclass,fnlwgt,education_num,martial_status,relationship,race,sex,capital_
 65,local-gov,103153,4,married,male spouse,white,male,0,1411,40,united-states,<=50k,primary,white collar,61-75
 45,local-gov,162187,9,married,male spouse,white,male,0,0,40,united-states,>50k,highschoolgraduate,service,36-45
 59,private,207391,9,divorced or separated,single,white,male,0,0,40,united-states,<=50k,highschoolgraduate,blue collar,46-60
-30,voluntary,176673,9,married,female spouse,black,female,0,0,40,united-states,<=50k,highschoolgraduate,unknown,26-35
+30,unemployed,176673,9,married,female spouse,black,female,0,0,40,united-states,<=50k,highschoolgraduate,unknown,26-35
 34,private,356882,10,married,male spouse,white,male,0,0,45,united-states,>50k,samecollege,white collar,26-35
 24,private,427686,2,married,extended relative,white,male,0,0,40,mexico,<=50k,primary,blue collar,18-25
 42,self-employed,191196,13,married,male spouse,white,male,0,1977,60,other,>50k,tertiary,white collar,36-45
@@ -32267,7 +32267,7 @@ age,workclass,fnlwgt,education_num,martial_status,relationship,race,sex,capital_
 54,private,161691,14,divorced or separated,single,white,female,0,2559,40,united-states,>50k,tertiary,white collar,46-60
 34,private,346034,8,divorced or separated,single,white,male,0,0,35,mexico,<=50k,secondary,blue collar,26-35
 41,private,144460,10,divorced or separated,child,white,male,0,0,40,italy,<=50k,samecollege,blue collar,36-45
-18,voluntary,153663,10,single,child,white,male,0,0,4,united-states,<=50k,samecollege,unknown,<18
+18,unemployed,153663,10,single,child,white,male,0,0,4,united-states,<=50k,samecollege,unknown,<18
 26,private,262617,9,married,male spouse,white,male,0,0,48,united-states,<=50k,highschoolgraduate,blue collar,26-35
 23,government,173851,9,single,single,white,male,0,0,8,united-states,<=50k,highschoolgraduate,miritary,18-25
 63,unknown,126540,10,divorced or separated,single,white,female,0,0,5,united-states,<=50k,samecollege,unknown,61-75
